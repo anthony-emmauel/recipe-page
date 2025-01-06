@@ -194,6 +194,11 @@ body {
   padding: 12px;
 }
 
+.table-num {
+  font-weight: 600;
+  color: #854632;
+}
+
 .table-nutrition tr:last-child {
   border-bottom: none;
 }
